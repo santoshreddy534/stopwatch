@@ -4,8 +4,8 @@ Efficient stopwatch application built using JavaScript. It provides a user-frien
 
 Features:
 
-Start, stop, and reset the stopwatch functionality.
+1. Start, stop, and reset the stopwatch functionality.
 
-Display elapsed time in hours, minutes, seconds, and milliseconds (format can be customized).
+2. Display elapsed time in hours, minutes, seconds, and milliseconds (format can be customized).
 
-Clean and concise JavaScript code for smooth performance.
+3. Clean and concise JavaScript code for smooth performance.
